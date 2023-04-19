@@ -496,15 +496,15 @@ section {
 	width: 100%;
 	float: left;
 	font-size: 24pt;
-	color: #0c0116;
+	color: #ffffff;
 }
 
 .consectetur_text{
 	width: 100%;
 	float: left;
 	font-size: 14pt;
-	color: #0c0116;
-	font-weight: 400;
+    font-weight: 800;
+	color: #f3c8c8;
 	margin-left: 0px;
     padding-bottom: 30px;
 }
